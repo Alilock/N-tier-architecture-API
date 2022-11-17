@@ -1,0 +1,17 @@
+C:\Users\Cashloans\source\repos\EmployeeManagement\src\EmployeeManagement.Businnes\bin\Debug\net6.0\EmployeeManagement.Businnes.deps.json
+C:\Users\Cashloans\source\repos\EmployeeManagement\src\EmployeeManagement.Businnes\bin\Debug\net6.0\EmployeeManagement.Businnes.dll
+C:\Users\Cashloans\source\repos\EmployeeManagement\src\EmployeeManagement.Businnes\bin\Debug\net6.0\EmployeeManagement.Businnes.pdb
+C:\Users\Cashloans\source\repos\EmployeeManagement\src\EmployeeManagement.Businnes\bin\Debug\net6.0\EmployeeManagement.DAL.dll
+C:\Users\Cashloans\source\repos\EmployeeManagement\src\EmployeeManagement.Businnes\bin\Debug\net6.0\EmployeeManagement.Data.dll
+C:\Users\Cashloans\source\repos\EmployeeManagement\src\EmployeeManagement.Businnes\bin\Debug\net6.0\EmployeeManagement.DAL.pdb
+C:\Users\Cashloans\source\repos\EmployeeManagement\src\EmployeeManagement.Businnes\bin\Debug\net6.0\EmployeeManagement.Data.pdb
+C:\Users\Cashloans\source\repos\EmployeeManagement\src\EmployeeManagement.Businnes\obj\Debug\net6.0\EmployeeManagement.Businnes.csproj.AssemblyReference.cache
+C:\Users\Cashloans\source\repos\EmployeeManagement\src\EmployeeManagement.Businnes\obj\Debug\net6.0\EmployeeManagement.Businnes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cashloans\source\repos\EmployeeManagement\src\EmployeeManagement.Businnes\obj\Debug\net6.0\EmployeeManagement.Businnes.AssemblyInfoInputs.cache
+C:\Users\Cashloans\source\repos\EmployeeManagement\src\EmployeeManagement.Businnes\obj\Debug\net6.0\EmployeeManagement.Businnes.AssemblyInfo.cs
+C:\Users\Cashloans\source\repos\EmployeeManagement\src\EmployeeManagement.Businnes\obj\Debug\net6.0\EmployeeManagement.Businnes.csproj.CoreCompileInputs.cache
+C:\Users\Cashloans\source\repos\EmployeeManagement\src\EmployeeManagement.Businnes\obj\Debug\net6.0\EmployeeManagement.Businnes.csproj.CopyComplete
+C:\Users\Cashloans\source\repos\EmployeeManagement\src\EmployeeManagement.Businnes\obj\Debug\net6.0\EmployeeManagement.Businnes.dll
+C:\Users\Cashloans\source\repos\EmployeeManagement\src\EmployeeManagement.Businnes\obj\Debug\net6.0\refint\EmployeeManagement.Businnes.dll
+C:\Users\Cashloans\source\repos\EmployeeManagement\src\EmployeeManagement.Businnes\obj\Debug\net6.0\EmployeeManagement.Businnes.pdb
+C:\Users\Cashloans\source\repos\EmployeeManagement\src\EmployeeManagement.Businnes\obj\Debug\net6.0\ref\EmployeeManagement.Businnes.dll
